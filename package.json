@@ -1,0 +1,16 @@
+{
+  "name": "js-intro",
+  "version": "1.0.0",
+  "description": "As someone wise once said: \r > ~~This~~ *is* **the** ***RGB*** <sub>value</sub> <sup>for</sup> green `#00FF00`.",
+  "main": "index.js",
+  "scripts": {
+    "numbers": "node --watch js/numbers.js",
+    "te3": "node --watch js/03-te.js",
+    "te2": "node --watch js/02-te.js",
+    "te": "node --watch js/01-te.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
